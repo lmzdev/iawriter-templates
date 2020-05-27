@@ -1,5 +1,5 @@
 # iA Writer Templates
-I wasn't quite satisfied with the few templates available, so i made my own based on [iA's](https://ia.net/writer/templates) Helvetica template. Might add some more in the future.
+I wasn't quite satisfied with the templates available, so i made my own based on [iA's](https://ia.net/writer/templates) Helvetica template. Might add some more in the future.
 
 ## iawriter-lato
 [Download](/dist/iawriter-lato.iatemplate.zip)
