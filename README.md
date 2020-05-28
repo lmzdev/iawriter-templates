@@ -15,9 +15,9 @@ IIRC, further changes were made:
 [Download](/download/iawriter-script.iatemplate.zip)
 
 This one features _PTSans_ and _PTSerif_, which are incredibly easy to read. 
-I scaled up the font-size to 14pt and line-height to 1.9 for even better readability after printing. 
+I scaled up the font-size to 13.5pt and line-height to 1.9 for even better readability after printing. 
 
-Well, try this if you prefer printing things out and reading from paper. Should also work fine when giving speeches etc.
+Try this if you prefer printing things out and reading from paper. Should also work fine when giving speeches etc.
 
 ---
 

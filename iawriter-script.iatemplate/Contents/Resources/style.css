@@ -561,7 +561,7 @@ h1 :-webkit-any(code, samp, kbd, strong) {
 /* font-size needs to be set here again otherwise responsive typography overrides it */
 @media print {
   html {
-    font-size: 14pt;
+    font-size: 13.5pt;
     line-height: 1.9;
   }
 

@@ -673,6 +673,7 @@ ul .task-list-item:before {
   margin-top: 30px;
   margin-bottom: 30px;
   text-align: right;
+  font-size: 8pt;
 }
 
 /* .header {

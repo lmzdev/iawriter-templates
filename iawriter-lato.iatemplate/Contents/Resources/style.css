@@ -594,7 +594,7 @@ h1 :-webkit-any(code, samp, kbd, strong) {
   }
 
   body {
-    max-width: 380pt;
+    max-width: 370pt;
   }
 
   /* body.footer {
