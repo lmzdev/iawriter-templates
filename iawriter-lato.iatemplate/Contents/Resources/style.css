@@ -351,8 +351,8 @@ blockquote em {
 /* Headings */
 
 h1 {
-  margin-top: calc((62 / 23) * 1em);
-  margin-bottom: calc((62 / 23) * 1em);
+  margin-top: calc((60 / 23) * 1em);
+  margin-bottom: calc((42 / 23) * 1em);
   font-size: calc((23 / 19) * 1.2em); /* 1.2105em = 23px @ font-size: 19px */
   line-height: calc(31 / 23); /* 1.3478 = 31px @ font-size: 23px */
   text-transform: uppercase;
@@ -366,7 +366,7 @@ h1 {
 
 
 h2 {
-  margin-top: calc((62 / 21) * 1em);
+  margin-top: calc((54 / 21) * 1em);
   margin-bottom: calc((31 / 21) * 1em);
   font-size: calc((21 / 19) * 1.2em); /* 1.1053em = 21px @ font-size: 19px */
   line-height: calc(31 / 21); /* 1.4762 = 31px @ font-size: 21px */
@@ -498,8 +498,8 @@ blockquote ul {
 
 /* Blockquotes */
 blockquote {
-  margin-left: calc((16 / 19) * -1em); /* 16px at width: 1080px */
-  margin-right: calc((16 / 19) * -1em); /* 16px at width: 1080px */
+  /* margin-left: calc((16 / 19) * -1em); 16px at width: 1080px */
+  /* margin-right: calc((16 / 19) * -1em); 16px at width: 1080px */
   padding-left: calc((40 / 19) * 1em); /* 40px at width: 1080px */
   padding-right: calc((40 / 19) * 1em); /* 40px at width: 1080px */
   font-style: italic;
