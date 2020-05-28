@@ -351,6 +351,7 @@ h5,
 h6 {
   margin-top: 1.5em;
   font-size: 1em;
+  line-height: 1.7; /*Same as in body font*/
 }
 
 h3,
@@ -359,10 +360,6 @@ h5 {
   margin-bottom: 0;
 }
 
-h3,
-h4 {
-  line-height: 1.2; /* 1.6316 = 31px @ font-size: 19px */
-}
 
 h4 {
   font-style: italic;
@@ -459,6 +456,7 @@ ul {
 
 ul > li:before {
   content: "» ";
+  font-weight: bold;
   float: left; /* Take out of flow to avoid changing left edge alignment or pushing child paragraph down */
   margin-left: calc((21 / 19) * -1em); /* -1.1053em = 21px @ font-size: 19px. em works better for RWD than % */
 }
@@ -568,7 +566,7 @@ h1 :-webkit-any(code, samp, kbd, strong) {
   }
 
   body {
-    max-width: 400pt;
+    max-width: 408pt;
   }
 
   /* body.footer {
