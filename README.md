@@ -6,11 +6,18 @@ I wasn't quite satisfied with the templates available, so i made my own based on
 
 Clean Sans Template, uses _Lato_ for Body and _ZillaSlab_ for Headings.
 
-IIRC, further changes were made to: 
+IIRC, further changes were made: 
 - text alignment
-- font size
-- page margins
-- header/footer
+- slightly increased font size
+- smaller page margins
+
+## iawriter-script
+[Download](/download/iawriter-script.iatemplate.zip)
+
+This one features _PTSans_ and _PTSerif_, which are incredibly easy to read. 
+I scaled up the font-size and line-height for even better readability after printing. 
+
+Try this if you are giving a speech and do not have a telemprompter around.
 
 ---
 
