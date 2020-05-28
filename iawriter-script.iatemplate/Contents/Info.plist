@@ -13,7 +13,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>3</string>
 	<key>IATemplateDocumentFile</key>
 	<string>document</string>
 	<key>IATemplateTitleFile</key>
@@ -21,7 +21,7 @@
 	<key>IATemplateFooterFile</key>
 	<string>footer</string>
 	<key>IATemplateFooterHeight</key>
-	<integer>84</integer>
+	<integer>90</integer>
 	<key>IATemplateHeaderFile</key>
 	<string>header</string>
 	<key>IATemplateHeaderHeight</key>

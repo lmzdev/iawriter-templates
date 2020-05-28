@@ -458,7 +458,7 @@ ul {
 }
 
 ul > li:before {
-  content: "▪ ";
+  content: "» ";
   float: left; /* Take out of flow to avoid changing left edge alignment or pushing child paragraph down */
   margin-left: calc((21 / 19) * -1em); /* -1.1053em = 21px @ font-size: 19px. em works better for RWD than % */
 }
@@ -568,7 +568,7 @@ h1 :-webkit-any(code, samp, kbd, strong) {
   }
 
   body {
-    max-width: 380pt;
+    max-width: 400pt;
   }
 
   /* body.footer {
