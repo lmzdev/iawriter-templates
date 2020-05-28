@@ -4,12 +4,7 @@ I wasn't quite satisfied with the templates available, so i made my own based on
 ## iawriter-lato
 [Download](/download/iawriter-lato.iatemplate.zip)
 
-Clean Sans Template, uses _Lato_ for Body and _ZillaSlab_ for Headings.
-
-IIRC, further changes were made: 
-- text alignment
-- slightly increased font size
-- smaller page margins
+Modern Sans Template, uses the popular _Lato_ for Body and _ZillaSlab_ for Headings. 
 
 ## iawriter-script
 [Download](/download/iawriter-script.iatemplate.zip)
