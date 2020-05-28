@@ -353,7 +353,7 @@ blockquote em {
 h1 {
   margin-top: calc((62 / 23) * 1em);
   margin-bottom: calc((62 / 23) * 1em);
-  font-size: calc((23 / 19) * 1em); /* 1.2105em = 23px @ font-size: 19px */
+  font-size: calc((23 / 19) * 1.2em); /* 1.2105em = 23px @ font-size: 19px */
   line-height: calc(31 / 23); /* 1.3478 = 31px @ font-size: 23px */
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -368,7 +368,7 @@ h1 {
 h2 {
   margin-top: calc((62 / 21) * 1em);
   margin-bottom: calc((31 / 21) * 1em);
-  font-size: calc((21 / 19) * 1em); /* 1.1053em = 21px @ font-size: 19px */
+  font-size: calc((21 / 19) * 1.2em); /* 1.1053em = 21px @ font-size: 19px */
   line-height: calc(31 / 21); /* 1.4762 = 31px @ font-size: 21px */
 }
 
@@ -376,7 +376,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin-top: calc((31 / 19) * 1em);
+  margin-top: calc((31 / 19) * 1.1em);
   font-size: 1em;
 }
 
@@ -504,6 +504,12 @@ blockquote {
   padding-right: calc((40 / 19) * 1em); /* 40px at width: 1080px */
   font-style: italic;
 }
+
+blockquote {
+  /* color: #6a737d; */
+  border-left: 0.25em solid #dfe2e5;
+}
+
 
 blockquote em strong,
 blockquote strong em {

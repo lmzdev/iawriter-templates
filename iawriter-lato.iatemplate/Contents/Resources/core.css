@@ -675,9 +675,9 @@ ul .task-list-item:before {
   text-align: right;
 }
 
-.header {
-  /* border-bottom: 0.5pt solid #797979; */
-}
+/* .header {
+  border-bottom: 0.5pt solid #797979;
+} */
 
 
 .title {
